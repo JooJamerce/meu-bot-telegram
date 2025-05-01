@@ -2,7 +2,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, MessageHandler, filters, CallbackQueryHandler
 
 # Substitua 'SEU_TOKEN_AQUI' pelo token do seu bot
-TOKEN = '7945218141:AAFYmUqfO3sDG95N0ZbzM_8iAa7H2BjudmU'
+TOKEN = '7945218141:AAHCprqz1FM3ri_yj_09y9-pta2ZYYSx4NQ'
 
 async def send_welcome(update, context):
     # Criando um botão com a mensagem
